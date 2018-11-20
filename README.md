@@ -1,7 +1,7 @@
 # Building-Recommender-Systems-with-Machine-Learning-and-AI
 
-1はじめに
-Anaconda、コース教材をインストールし、映画のおすすめを作成してください！
+###1はじめに
+###Anaconda、コース教材をインストールし、映画のおすすめを作成してください！
 コースロードマップ
 推薦者のタイプ
 暗黙の明示的な評価を通じてあなたを理解する
